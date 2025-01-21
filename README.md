@@ -30,10 +30,10 @@
 * 🌟 Shared rooms: 1.15K
 
 * 8️⃣ Who is the busiest host?
-🤝 Again, Michael, based on activity levels and reviews.
+* 🤝 Again, Michael, based on activity levels and reviews.
 
 * 9️⃣ Property with the maximum reviews:
-A room near JFK in Queens has the highest reviews, highlighting its popularity.
+* A room near JFK in Queens has the highest reviews, highlighting its popularity.
 
 ![Image](https://github.com/user-attachments/assets/a21875ed-c9fc-4939-8181-03d970a4c28d)
 
