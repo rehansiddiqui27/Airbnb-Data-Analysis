@@ -25,9 +25,9 @@
 * 🛌 Entire homes/apartments are the most popular option.
 
 * 7️⃣ Total availability by room type:
-🌟 Entire home/apartments: 25.35K
-🌟 Private rooms: 22.23K
-🌟 Shared rooms: 1.15K
+* 🌟 Entire home/apartments: 25.35K
+* 🌟 Private rooms: 22.23K
+* 🌟 Shared rooms: 1.15K
 
 * 8️⃣ Who is the busiest host?
 🤝 Again, Michael, based on activity levels and reviews.
